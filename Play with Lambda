@@ -1,0 +1,12 @@
+# create a lambda function that adds 25 to a number
+add_25 = lambda x: x + 25
+
+# test the lambda function
+result = add_25(10)
+
+# print the result
+print(result)
+
+
+The output of this program will be
+35
