@@ -1,0 +1,13 @@
+# create the list of integers
+numbers = [4, 5, 2, 9]
+
+# square the numbers in the list using the map function
+squared = list(map(lambda x: x**2, numbers))
+
+# print the square of each number
+print(squared)
+
+
+
+Answer:
+[16, 25, 4, 81]
